@@ -1,0 +1,23 @@
+{
+  "name": "replyforge.fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:41729/git/Mhjghjgd/replyforge.fr"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/fiber": "^9.6.1",
+    "@shadergradient/react": "^2.4.20",
+    "camera-controls": "^3.1.2",
+    "three": "^0.185.1",
+    "three-stdlib": "^2.36.1"
+  }
+}
